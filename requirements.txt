@@ -2,3 +2,4 @@ aiohttp==3.9.5
 websockets==15.0.1
 aiogram==3.2.0
 requests==2.32.3
+protobuf==6.33.1
